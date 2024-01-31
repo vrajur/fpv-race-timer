@@ -3,7 +3,7 @@ Race timer tool that measures lap times from video recordings
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Follow these instructions to setup your machine with the necessary dependencies for using this tool.
 
 ### Prerequisites - TODO
 
