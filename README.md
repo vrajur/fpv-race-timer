@@ -46,5 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* Lightglue
-* Superpoint
+* [Lightglue](https://github.com/cvg/LightGlue)
